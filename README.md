@@ -1,2 +1,2 @@
-# Devops-leraning
+# Devops-teaching
 My-testLab
